@@ -101,6 +101,3 @@ I'm always interested in discussing data science projects, sharing insights, or 
   
 *"In God we trust, all others must bring data."* - W. Edwards Deming
 
-<img src="https://komarev.com/ghpvc/?username=YOUR_USERNAME&color=blueviolet&style=flat-square&label=Profile+Views" alt="Profile Views"/>
-
-</div>
