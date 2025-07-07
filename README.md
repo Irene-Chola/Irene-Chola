@@ -20,26 +20,43 @@ I specialize in end-to-end data science workflows, from data extraction and clea
 
 <div align="center">
 
-**Programming & Analysis**
-
-<img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python"/>
-<img src="https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" alt="SQL"/>
-
-**Cloud & Platforms**
+**Cloud & Big Data**
 
 <img src="https://img.shields.io/badge/Microsoft_Azure-0089D0?style=for-the-badge&logo=microsoft-azure&logoColor=white" alt="Azure"/>
+<img src="https://img.shields.io/badge/Azure_Data_Factory-0078D4?style=for-the-badge&logo=microsoft-azure&logoColor=white" alt="Azure Data Factory"/>
+<img src="https://img.shields.io/badge/Azure_Stream_Analytics-0078D4?style=for-the-badge&logo=microsoft-azure&logoColor=white" alt="Azure Stream Analytics"/>
 <img src="https://img.shields.io/badge/Microsoft_Fabric-0078D4?style=for-the-badge&logo=microsoft&logoColor=white" alt="Microsoft Fabric"/>
+<img src="https://img.shields.io/badge/OneLake-0078D4?style=for-the-badge&logo=microsoft&logoColor=white" alt="OneLake"/>
+<img src="https://img.shields.io/badge/Azure_Synapse-0078D4?style=for-the-badge&logo=microsoft-azure&logoColor=white" alt="Azure Synapse"/>
 
-**Data Processing & Automation**
-
-<img src="https://img.shields.io/badge/Microsoft_Excel-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white" alt="Excel"/>
-<img src="https://img.shields.io/badge/Alteryx-0078D4?style=for-the-badge&logo=alteryx&logoColor=white" alt="Alteryx"/>
-
-**Visualization & Reporting**
+**Data Analytics**
 
 <img src="https://img.shields.io/badge/PowerBI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black" alt="PowerBI"/>
+<img src="https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" alt="SQL"/>
+<img src="https://img.shields.io/badge/Alteryx-0078D4?style=for-the-badge&logo=alteryx&logoColor=white" alt="Alteryx"/>
+<img src="https://img.shields.io/badge/Microsoft_Excel-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white" alt="Excel"/>
 <img src="https://img.shields.io/badge/Tableau-E97627?style=for-the-badge&logo=tableau&logoColor=white" alt="Tableau"/>
-<img src="https://img.shields.io/badge/Canva-00C4CC?style=for-the-badge&logo=canva&logoColor=white" alt="Canva"/>
+
+**Programming**
+
+<img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python"/>
+<img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white" alt="Pandas"/>
+<img src="https://img.shields.io/badge/Scikit--Learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white" alt="Scikit-learn"/>
+<img src="https://img.shields.io/badge/DAX-F2C811?style=for-the-badge&logo=powerbi&logoColor=black" alt="DAX"/>
+
+**Machine Learning**
+
+<img src="https://img.shields.io/badge/Azure_ML_Studio-0078D4?style=for-the-badge&logo=microsoft-azure&logoColor=white" alt="Azure ML Studio"/>
+<img src="https://img.shields.io/badge/Forecasting-FF6B6B?style=for-the-badge&logo=chart-line&logoColor=white" alt="Forecasting"/>
+<img src="https://img.shields.io/badge/Clustering-4ECDC4?style=for-the-badge&logo=circle-nodes&logoColor=white" alt="Clustering"/>
+<img src="https://img.shields.io/badge/Classification-45B7D1?style=for-the-badge&logo=sort&logoColor=white" alt="Classification"/>
+
+**Development & Collaboration Tools**
+
+<img src="https://img.shields.io/badge/Jira-0052CC?style=for-the-badge&logo=jira&logoColor=white" alt="Jira"/>
+<img src="https://img.shields.io/badge/Confluence-172B4D?style=for-the-badge&logo=confluence&logoColor=white" alt="Confluence"/>
+<img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" alt="Git"/>
+<img src="https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white" alt="VS Code"/>
 
 </div>
 
@@ -51,11 +68,17 @@ I specialize in end-to-end data science workflows, from data extraction and clea
 
 <div align="center">
   
-| 📊 **Data Analysis** | 🤖 **Machine Learning** | 📈 **Business Intelligence** |
+| 📊 **Data Analytics** | 🤖 **Machine Learning** | ☁️ **Cloud & Big Data** |
 |:---:|:---:|:---:|
-| Statistical Modeling | Predictive Analytics | KPI Development |
-| Data Mining | Pattern Recognition | Dashboard Creation |
-| Hypothesis Testing | Feature Engineering | Performance Reporting |
+| Power BI Dashboards | Forecasting Models | Azure Data Factory |
+| SQL Query Optimization | Clustering Analysis | Azure Stream Analytics |
+| Real-Time Analytics | Classification Models | Microsoft Fabric & OneLake |
+
+| 📈 **Business Intelligence** | 🔧 **Development** | 📋 **Documentation** |
+|:---:|:---:|:---:|
+| ETL Pipelines | Python Programming | BRD & SDD Creation |
+| Data Modeling | Git Version Control | UAT Planning |
+| A/B Testing | Azure ML Deployment | Traceability Matrices |
 
 </div>
 
@@ -63,12 +86,13 @@ I specialize in end-to-end data science workflows, from data extraction and clea
   <img src="https://user-images.githubusercontent.com/74038190/212284087-bbe7e430-757e-4901-90bf-4cd2ce3e1852.gif" width="100">
 </div>
 
-- **Data Analysis & Mining** - Extracting meaningful patterns from complex datasets
-- **Statistical Modeling** - Hypothesis testing, regression analysis, predictive modeling
-- **Business Intelligence** - KPI development, performance dashboards, reporting
-- **Data Visualization** - Creating compelling visual stories from data
-- **ETL Processes** - Data pipeline development and automation
-- **Cloud Analytics** - Scalable data solutions using Azure ecosystem
+- **Cloud & Big Data** - Azure Data Factory, Stream Analytics, Microsoft Fabric, OneLake, Azure Synapse
+- **Data Analytics** - Power BI with Fabric integration, advanced SQL, Alteryx workflows, Tableau visualizations
+- **Programming** - Python (Pandas, Scikit-learn), DAX for Power BI, SQL optimization
+- **Machine Learning** - Forecasting, clustering, classification, model deployment via Azure ML Studio
+- **Business Intelligence** - Real-time dashboards, ETL pipeline design, data modeling, A/B testing
+- **Development Tools** - Git, VS Code, Jira project management, Confluence documentation
+- **Documentation** - Business Requirements Documents, Solution Design Documents, UAT planning
 
 ### 📊 Current Focus
 
@@ -78,6 +102,16 @@ I specialize in end-to-end data science workflows, from data extraction and clea
 
 I'm currently exploring advanced machine learning techniques and expanding my expertise in cloud-based analytics solutions. Always excited to collaborate on projects that involve innovative data applications and impactful visualizations.
 
+### 📈 GitHub Stats
+
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=radical" alt="GitHub Stats"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=YOUR_USERNAME&theme=radical" alt="GitHub Streak"/>
+</div>
+
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&theme=radical" alt="Top Languages"/>
+</div>
 
 ### 🌟 Let's Connect!
 
@@ -100,4 +134,8 @@ I'm always interested in discussing data science projects, sharing insights, or 
 <div align="center">
   
 *"In God we trust, all others must bring data."* - W. Edwards Deming
+
+<img src="https://komarev.com/ghpvc/?username=YOUR_USERNAME&color=blueviolet&style=flat-square&label=Profile+Views" alt="Profile Views"/>
+
+</div>
 
