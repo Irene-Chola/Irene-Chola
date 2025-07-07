@@ -102,16 +102,6 @@ I specialize in end-to-end data science workflows, from data extraction and clea
 
 I'm currently exploring advanced machine learning techniques and expanding my expertise in cloud-based analytics solutions. Always excited to collaborate on projects that involve innovative data applications and impactful visualizations.
 
-### 📈 GitHub Stats
-
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=radical" alt="GitHub Stats"/>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=YOUR_USERNAME&theme=radical" alt="GitHub Streak"/>
-</div>
-
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&theme=radical" alt="Top Languages"/>
-</div>
 
 ### 🌟 Let's Connect!
 
@@ -135,7 +125,5 @@ I'm always interested in discussing data science projects, sharing insights, or 
   
 *"In God we trust, all others must bring data."* - W. Edwards Deming
 
-<img src="https://komarev.com/ghpvc/?username=YOUR_USERNAME&color=blueviolet&style=flat-square&label=Profile+Views" alt="Profile Views"/>
 
-</div>
 
