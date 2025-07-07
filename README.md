@@ -42,6 +42,7 @@ I specialize in end-to-end data science workflows, from data extraction and clea
 <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python"/>
 <img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white" alt="Pandas"/>
 <img src="https://img.shields.io/badge/Scikit--Learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white" alt="Scikit-learn"/>
+<img src="https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" alt="SQL"/>
 <img src="https://img.shields.io/badge/DAX-F2C811?style=for-the-badge&logo=powerbi&logoColor=black" alt="DAX"/>
 
 **Machine Learning**
@@ -103,6 +104,7 @@ I specialize in end-to-end data science workflows, from data extraction and clea
 I'm currently exploring advanced machine learning techniques and expanding my expertise in cloud-based analytics solutions. Always excited to collaborate on projects that involve innovative data applications and impactful visualizations.
 
 
+
 ### 🌟 Let's Connect!
 
 <div align="center">
@@ -124,6 +126,4 @@ I'm always interested in discussing data science projects, sharing insights, or 
 <div align="center">
   
 *"In God we trust, all others must bring data."* - W. Edwards Deming
-
-
 
